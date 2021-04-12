@@ -1,1 +1,7 @@
+The following are three observations from the analysis of the data visualization performed.
 
+1) Two drug regimens were tested more than the others: Capomulin and Ramicane. These two drugs also were the most effective at reducing average tumor size based on the mean tumor volume. 
+
+2) The male to female mouse ratio was almost equal, so when analyzing the results, you can assume that the sex of the mouse likely made little impact. Further analysis based on sex and drug regimen would be necessary to conclude definitive impact.
+
+3) For the Capomulin regimen, average tumor size increased with mouse weight. 
